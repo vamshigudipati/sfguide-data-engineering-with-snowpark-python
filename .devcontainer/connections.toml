@@ -2,10 +2,13 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "DJ57326"
+account = "ahunczr-dj57326"
 user = "vamshi88"
 password = "Dhanvik#99"
-role = "ACCOUNTADMIN"
-warehouse = "COMPUTE_WH"
-database = "TESTDB"
-schema = "PUBLIC"
+#role = "ACCOUNTADMIN"
+role = "HOL_ROLE"
+#warehouse = "COMPUTE_WH"
+warehouse = "HOL_WH"
+#database = "TESTDB"
+database = "HOL_DB"
+#schema = "PUBLIC"
